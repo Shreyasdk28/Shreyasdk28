@@ -81,7 +81,9 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </p>
 </div>
+
 ## 🏆 Featured Projects
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&random=false&width=800&lines=Featured+Projects" alt="Typing SVG" />
 </div>
@@ -109,7 +111,7 @@
 🔗 [GitHub Repository](https://github.com/Visheshpgowda/Hackthon)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=~•°☆°•~•°☆°•~•°☆°•~" alt="Separator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=60&section=footer" width="100%" alt="Thin Wavy Line" />
 
 </div>
 
@@ -119,7 +121,7 @@
 
 ✨ **Key Features**: 
 - Multi-disease prediction with high accuracy
-- Ensemble learning models for improved reliability
+- Novel Ensemble learning models for improved reliability
 - Interactive and user-friendly interface
 - Detailed risk analysis and prevention recommendations
 
@@ -136,16 +138,15 @@
 🔗 [GitHub Repository](https://github.com/Somanath2314/disease-prediction-app)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=60&section=footer" width="100%" alt="Thin Wavy Line" />
 </div>
 
-### 🅿️ Vehicle Parking Spot Booking Web App
+### 🅿️ Campus Parking Spot Booking Web App
 
 **Smart parking solution that digitizes campus parking management**
 
 ✨ **Key Features**: 
 - Real-time parking availability monitoring
-- QR code validation for secure access
 - Reservation system with time-based pricing
 - Admin dashboard with analytics and reporting
 
@@ -154,41 +155,30 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </p>
-
 🔗 [GitHub Repository](https://github.com/Visheshpgowda/ParkingslotsProject)
-## 📊 Experience
 
-- **AI/ML Intern** at **NielsenIQ** (May 2023 - Aug 2023)  
-  Developed machine learning models for consumer behavior analysis and implemented automated data processing pipelines using Python and TensorFlow.
+## 📊 Experience  
 
-- **Full Stack Developer Intern** at **OsizTech** (Jan 2023 - Apr 2023)  
-  Developed responsive web applications using React, Node.js, and MongoDB, participating in the complete SDLC from requirement gathering to deployment.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/100px-Dell_Logo.svg.png" height="18"> **Intern** at **Dell Technologies** (June 2025 - Aug 2025)  
 
-## 🎯 Goals for 2025
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/100px-Samsung_Logo.svg.png" height="18"> **R&D Intern** at **Samsung** (Mar 2025 - May 2025)  
 
-- [ ] Master deep learning and computer vision techniques
-- [ ] Build and deploy a production-ready AI application
-- [ ] Contribute to open-source ML projects
-- [ ] Develop a personal portfolio website
-- [ ] Complete a research paper in AI/ML
 
 ## 📬 Connect With Me
-
 <div align="center">
   <p>Let's collaborate on innovative projects or discuss tech! Feel free to reach out.</p>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail">
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/shreyas-d-k-341210257/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
-</div>
+  <a href="mailto:shreyasdk28@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>  
+<a href="https://www.linkedin.com/in/shreyas-d-k-341210257/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  
+<a href="https://github.com/shreyasdk28">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=62" width="100%" alt="Footer" /></a> 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=62" width="100%" alt="Footer" />
-  
-  <b>Show some ❤️ by starring my repositories!</b>
 </div>
