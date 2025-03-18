@@ -81,22 +81,20 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </p>
 </div>
-
 ## 🏆 Featured Projects
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&random=false&width=800&lines=Featured+Projects" alt="Typing SVG" />
 </div>
 
-### 🏫 School Management System
+### 🏫 EduStreamliners
 
-**A streamlined educational management platform for modern schools**
+**A streamlined educational management platform for schools**
 
 ✨ **Key Features**: 
 - Dashboard analytics with real-time metrics
 - Attendance tracking and reporting
 - Timetable management with conflict resolution
-- Role-based access for administrators, teachers, and students
+- Role-based access for administrators and teachers
 
 🔧 **Tech Stack**: 
 <p>
@@ -111,7 +109,8 @@
 🔗 [GitHub Repository](https://github.com/Visheshpgowda/Hackthon)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=~•°☆°•~•°☆°•~•°☆°•~" alt="Separator" />
+
 </div>
 
 ### 🩺 Chronic Disease Prediction System
