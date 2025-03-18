@@ -1,20 +1,19 @@
 # 👋 Hi there, I'm Shreyas D K
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=AI/ML%20Engineer%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Tech%20Enthusiast%20|%20Software%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
   
   <p>
     <a href="https://www.linkedin.com/in/shreyas-d-k-341210257/">
       <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
     </a>&nbsp;&nbsp;
-    <a href="mailto:youremail@example.com">
+    <a href="mailto:shreyasdk28@gmail.com">
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/YourGitHubUsername">
+    <a href="https://github.com/Shreyasdk28">
       <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
     </a>
   </p>
-  
   
   
   <hr/>
@@ -27,133 +26,139 @@
     <td>
       <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
       <ul>
-        <li>🎓 B.Tech in Computer Science @ <b>SRM Institute of Science and Technology</b></li>
-        <li>👨‍💻 AI/ML Engineer passionate about solving real-world problems</li>
-        <li>🌱 Currently learning <b>Deep Learning, React, Node.js</b></li>
+        <li>🎓 B.E in Information Science and Engineering @ <b>B.M.S. College of Engineering</b> (2022-2026)</li>
+        <li>🎓 B.S. in Data Science and Applications @ <b>Indian Institute of Technology, Madras</b> (2023-2027)</li>
+        <li>👨‍💻 Tech enthusiast passionate about solving real-world problems</li>
+        <li>🌱 Currently learning <b>Development, LLM, Deep Learning </b></li>
         <li>🚀 Goal: Creating innovative solutions that address real-world challenges</li>
-        <li>⚡ Fun fact: I enjoy [Your fun fact here]</li>
+        <li>⚡ Fun fact: When I’m not debugging code or exploring AI, you’ll find me sketching, lost in a book, trekking up hills, or biking </li>
       </ul>
     </td>
   </tr>
 </table>
 
-> 🌱 I'm a passionate AI/ML Engineer and Full Stack Developer driven by a desire to leverage technology for positive impact. My technical journey spans machine learning, web development, and data science, with a focus on creating impactful solutions.
+> 🌱 I'm a passionate Software Engineer and Full Stack Developer driven by a desire to leverage technology for positive impact. My technical journey spans machine learning, web development, and data science, with a focus on creating impactful solutions.
 
 ## 🚀 Tech Stack
 
 <div align="center">
   
   ### Languages
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </p>
   
   ### ML/DL
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </p>
   
   ### Web Development
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </p>
   
   ### Tools & Platforms
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=5D8BF4&height=60&section=header&text=Featured%20Projects&fontSize=30&fontColor=ffffff" width="100%" alt="Projects Header" />
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </p>
 </div>
 
 ## 🏆 Featured Projects
 
-### 🤖 Toxic Comment Classification System
-
-**A sophisticated ML system to identify and filter toxic comments using NLP techniques**
-
-✨ **Key Features**: 
-- Multi-label classification for different types of toxicity
-- BERT-based model with 92% accuracy
-- Real-time processing capability
-- User-friendly dashboard for content moderation
-
-🔧 **Tech Stack**: Python, TensorFlow, BERT, Flask, React
-
-🌐 **Live Demo**: [Toxic Comment Classifier](https://your-project-url.com)
-
-🔗 [GitHub Repository](https://github.com/YourGitHubUsername/toxic-comment-classifier)
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&random=false&width=800&lines=Featured+Projects" alt="Typing SVG" />
 </div>
 
-### 👥 AI-based Video Interview Analysis Platform
+### 🏫 School Management System
 
-**An intelligent platform for analyzing candidate interviews using AI**
+**A streamlined educational management platform for modern schools**
 
 ✨ **Key Features**: 
-- Facial expression recognition
-- Speech pattern analysis
-- Sentiment analysis
-- Comprehensive performance metrics
-- Recruiter dashboard
+- Dashboard analytics with real-time metrics
+- Attendance tracking and reporting
+- Timetable management with conflict resolution
+- Role-based access for administrators, teachers, and students
 
-🔧 **Tech Stack**: Python, OpenCV, TensorFlow, React, Node.js, MongoDB
+🔧 **Tech Stack**: 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+</p>
 
-🌐 **Live Demo**: [Interview Analysis Platform](https://your-project-url.com)
+🌐 **Live Demo**: [School Management System](https://hackathon-frontend-lime.vercel.app/)
 
-🔗 [GitHub Repository](https://github.com/YourGitHubUsername/interview-analysis)
+🔗 [GitHub Repository](https://github.com/Visheshpgowda/Hackthon)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
 </div>
 
-### 📚 Student Engagement Tracking System
+### 🩺 Chronic Disease Prediction System
 
-**A comprehensive platform for monitoring student engagement during online classes**
+**ML-powered prediction for asthma, diabetes, stroke, and heart disease risks**
 
 ✨ **Key Features**: 
-- Facial recognition for attendance
-- Activity tracking and analytics
-- Real-time engagement metrics
-- Instructor dashboard
-- Customizable reports
+- Multi-disease prediction with high accuracy
+- Ensemble learning models for improved reliability
+- Interactive and user-friendly interface
+- Detailed risk analysis and prevention recommendations
 
-🔧 **Tech Stack**: React, Node.js, Express, MongoDB, TensorFlow
+🔧 **Tech Stack**: 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30"/>
+</p>
 
-🔗 [GitHub Repository](https://github.com/YourGitHubUsername/student-engagement-tracker)
+🌐 **Live Demo**: [Disease Prediction App](https://disease-prediction-app.vercel.app/)
 
-## 📚 Education
+🔗 [GitHub Repository](https://github.com/Somanath2314/disease-prediction-app)
 
-- **B.Tech in Computer Science and Engineering**  
-  SRM Institute of Science and Technology  
-  2022 - 2026
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
+</div>
 
+### 🅿️ Vehicle Parking Spot Booking Web App
+
+**Smart parking solution that digitizes campus parking management**
+
+✨ **Key Features**: 
+- Real-time parking availability monitoring
+- QR code validation for secure access
+- Reservation system with time-based pricing
+- Admin dashboard with analytics and reporting
+
+🔧 **Tech Stack**: 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+</p>
+
+🔗 [GitHub Repository](https://github.com/Visheshpgowda/ParkingslotsProject)
 ## 📊 Experience
 
 - **AI/ML Intern** at **NielsenIQ** (May 2023 - Aug 2023)  
@@ -174,7 +179,6 @@
 
 <div align="center">
   <p>Let's collaborate on innovative projects or discuss tech! Feel free to reach out.</p>
-  <br>
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail">
   </a>
@@ -186,158 +190,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=62" width="100%" alt="Footer" />
-  
-  <b>Show some ❤️ by starring my repositories!</b>
-</div>
-> 🌱 I'm a passionate AI/ML Engineer and Full Stack Developer driven by a desire to leverage technology for positive impact. My technical journey spans machine learning, web development, and data science, with a focus on creating impactful solutions.
-
-## 🚀 Tech Stack
-
-<div align="center">
-  
-  ### Languages
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-  ### ML/DL
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  
-  ### Web Development
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  ### Tools & Platforms
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&random=false&width=800&lines=Featured+Projects" alt="Typing SVG" />
-</div>
-
-## 🏆 Featured Projects
-
-### 🤖 Toxic Comment Classification System
-
-**A sophisticated ML system to identify and filter toxic comments using NLP techniques**
-
-✨ **Key Features**: 
-- Multi-label classification for different types of toxicity
-- BERT-based model with 92% accuracy
-- Real-time processing capability
-- User-friendly dashboard for content moderation
-
-🔧 **Tech Stack**: Python, TensorFlow, BERT, Flask, React
-
-🌐 **Live Demo**: [Toxic Comment Classifier](https://your-project-url.com)
-
-🔗 [GitHub Repository](https://github.com/YourGitHubUsername/toxic-comment-classifier)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
-</div>
-
-### 👥 AI-based Video Interview Analysis Platform
-
-**An intelligent platform for analyzing candidate interviews using AI**
-
-✨ **Key Features**: 
-- Facial expression recognition
-- Speech pattern analysis
-- Sentiment analysis
-- Comprehensive performance metrics
-- Recruiter dashboard
-
-🔧 **Tech Stack**: Python, OpenCV, TensorFlow, React, Node.js, MongoDB
-
-🌐 **Live Demo**: [Interview Analysis Platform](https://your-project-url.com)
-
-🔗 [GitHub Repository](https://github.com/YourGitHubUsername/interview-analysis)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=✧･ﾟ:+*✧･ﾟ:*+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧+:･ﾟ✧*:･ﾟ✧" alt="Separator" />
-</div>
-
-### 📚 Student Engagement Tracking System
-
-**A comprehensive platform for monitoring student engagement during online classes**
-
-✨ **Key Features**: 
-- Facial recognition for attendance
-- Activity tracking and analytics
-- Real-time engagement metrics
-- Instructor dashboard
-- Customizable reports
-
-🔧 **Tech Stack**: React, Node.js, Express, MongoDB, TensorFlow
-
-🔗 [GitHub Repository](https://github.com/YourGitHubUsername/student-engagement-tracker)
-
-## 📚 Education
-
-- **B.Tech in Computer Science and Engineering**  
-  SRM Institute of Science and Technology  
-  2022 - 2026
-
-## 📊 Experience
-
-- **AI/ML Intern** at **NielsenIQ** (May 2023 - Aug 2023)  
-  Developed machine learning models for consumer behavior analysis and implemented automated data processing pipelines using Python and TensorFlow.
-
-- **Full Stack Developer Intern** at **OsizTech** (Jan 2023 - Apr 2023)  
-  Developed responsive web applications using React, Node.js, and MongoDB, participating in the complete SDLC from requirement gathering to deployment.
-
-## 🎯 Goals for 2025
-
-- [ ] Master deep learning and computer vision techniques
-- [ ] Build and deploy a production-ready AI application
-- [ ] Contribute to open-source ML projects
-- [ ] Develop a personal portfolio website
-- [ ] Complete a research paper in AI/ML
-
-## 📬 Connect With Me
-
-<div align="center">
-  <p>Let's collaborate on innovative projects or discuss tech! Feel free to reach out.</p>
-  
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=for-the-badge&logo=gmail">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/shreyas-d-k-341210257/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
   
   <b>Show some ❤️ by starring my repositories!</b>
 </div>
