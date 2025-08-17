@@ -162,9 +162,9 @@
 
 ## 📊 Experience  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/100px-Dell_Logo.svg.png" height="18"> **Intern** at **Dell Technologies** (June 2025 - Aug 2025)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/100px-Dell_Logo.svg.png" height="18"> **Intern** at **Dell Technologies** (July 2025 - Sep 2025)  
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/100px-Samsung_Logo.svg.png" height="18"> **R&D Intern** at **Samsung** (Mar 2025 - May 2025)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/100px-Samsung_Logo.svg.png" height="18"> **R&D Intern** at **Samsung** (Mar 2025 - Aug 2025)  
 
 
 ## 📬 Connect With Me
